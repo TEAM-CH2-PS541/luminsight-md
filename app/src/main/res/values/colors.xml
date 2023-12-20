@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F78CA2</color>
+    <color name="colorPrimaryDark">#F4335B</color>
+    <color name="colorAccent">#F78CA2</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bg_pink">#F78CA2</color>
+    <color name="bg_pink_tua">#F4335B</color>
+    <color name="abu">#D9D9D9</color>
+    <color name="abu3">#EAEAEA</color>
+    <color name="abu2">#8F8F8F</color>
+</resources>

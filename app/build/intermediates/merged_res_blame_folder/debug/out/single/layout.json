@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-mergeDebugResources-45:\\layout\\activity_detail_artikel.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-main-48:\\layout\\activity_detail_artikel.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-mergeDebugResources-45:\\layout\\activity_metode.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-main-48:\\layout\\activity_metode.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-mergeDebugResources-45:\\layout\\activity_about.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-main-48:\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-mergeDebugResources-45:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-main-48:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "com.luminapp.luminsight.app-mergeDebugResources-45:/layout/activity_main.xml",
+        "source": "com.luminapp.luminsight.app-main-48:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-mergeDebugResources-45:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-main-48:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-mergeDebugResources-45:\\layout\\activity_artikel.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-main-48:\\layout\\activity_artikel.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-mergeDebugResources-45:\\layout\\popup_exit.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-main-48:\\layout\\popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-mergeDebugResources-45:\\layout\\row_artikel.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-main-48:\\layout\\row_artikel.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-mergeDebugResources-45:\\layout\\popup_predict.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-main-48:\\layout\\popup_predict.xml"
+    }
+]

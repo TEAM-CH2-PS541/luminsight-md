@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/_12sdp"
+    android:background="@color/bg_pink"
+    tools:context=".ui.login.LoginActivity">
+
+    <LinearLayout
+        android:gravity="center"
+        android:layout_centerInParent="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:textStyle="bold"
+            android:textSize="@dimen/_15ssp"
+            android:textColor="@color/black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/selamatdatang"/>
+        <TextView
+            android:layout_marginBottom="@dimen/_15sdp"
+            android:textSize="@dimen/_12ssp"
+            android:textColor="@color/black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/silahkanlogin"/>
+        <TextView
+            android:gravity="center"
+            android:id="@+id/tv_login"
+            android:textSize="@dimen/_10ssp"
+            android:drawablePadding="@dimen/_9sdp"
+            android:padding="@dimen/_7sdp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/card_login"
+            android:text="@string/masukgoogle"
+            android:drawableStart="@drawable/google" />
+    </LinearLayout>
+</RelativeLayout>

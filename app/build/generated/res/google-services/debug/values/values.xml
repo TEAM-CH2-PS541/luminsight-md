@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">129976350829-o0fr98l7hckh6em2njkufktvsu5vgnd8.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://projectods-107cf.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">129976350829</string>
+    <string name="google_api_key" translatable="false">AIzaSyALybmG0B3L_Bz7SIrriOx3KAxz3R6gz1Y</string>
+    <string name="google_app_id" translatable="false">1:129976350829:android:6ccb643fce051a9d5ce764</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyALybmG0B3L_Bz7SIrriOx3KAxz3R6gz1Y</string>
+    <string name="google_storage_bucket" translatable="false">projectods-107cf.appspot.com</string>
+    <string name="project_id" translatable="false">projectods-107cf</string>
+</resources>

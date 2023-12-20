@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-merged_res-46:\\drawable_articles.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-main-48:\\drawable\\articles.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-merged_res-46:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-main-48:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-merged_res-46:\\drawable_about.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-main-48:\\drawable\\about.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-merged_res-46:\\drawable_logoluminsight.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-main-48:\\drawable\\logoluminsight.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-merged_res-46:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-main-48:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-merged_res-46:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-main-48:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-merged_res-46:\\drawable_ophthalmology.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-main-48:\\drawable\\ophthalmology.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-merged_res-46:\\layout_popup_exit.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-main-48:\\layout\\popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-merged_res-46:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-main-48:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-merged_res-46:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-main-48:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-merged_res-46:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-main-48:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-merged_res-46:\\layout_row_artikel.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-main-48:\\layout\\row_artikel.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-merged_res-46:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-main-48:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-merged_res-46:\\drawable_baseline_navigate_next_24.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-main-48:\\drawable\\baseline_navigate_next_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-merged_res-46:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-main-48:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-merged_res-46:\\drawable_baseline_logout_24.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-main-48:\\drawable\\baseline_logout_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-merged_res-46:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-main-48:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-merged_res-46:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-main-48:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-merged_res-46:\\layout_popup_predict.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-main-48:\\layout\\popup_predict.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-merged_res-46:\\layout_activity_artikel.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-main-48:\\layout\\activity_artikel.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-merged_res-46:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-main-48:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-merged_res-46:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-main-48:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-merged_res-46:\\drawable_card_login.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-main-48:\\drawable\\card_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-merged_res-46:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-main-48:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-merged_res-46:\\drawable_card_putih.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-main-48:\\drawable\\card_putih.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-merged_res-46:\\layout_activity_detail_artikel.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-main-48:\\layout\\activity_detail_artikel.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-merged_res-46:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-main-48:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-merged_res-46:\\drawable_google.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-main-48:\\drawable\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-merged_res-46:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-main-48:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-merged_res-46:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-main-48:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-merged_res-46:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-main-48:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-merged_res-46:\\layout_activity_about.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-main-48:\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-merged_res-46:\\drawable_addimage.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-main-48:\\drawable\\addimage.png"
+    },
+    {
+        "merged": "com.luminapp.luminsight.app-merged_res-46:/layout_activity_main.xml.flat",
+        "source": "com.luminapp.luminsight.app-main-48:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-merged_res-46:\\drawable_baseline_arrow_back_ios_24.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-main-48:\\drawable\\baseline_arrow_back_ios_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-merged_res-46:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-main-48:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-merged_res-46:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-main-48:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-merged_res-46:\\drawable_card_pink.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-main-48:\\drawable\\card_pink.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-merged_res-46:\\drawable_card_main.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-main-48:\\drawable\\card_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-merged_res-46:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-main-48:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-merged_res-46:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-main-48:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-merged_res-46:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-pngs-41:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-merged_res-46:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-main-48:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-merged_res-46:\\drawable_baseline_check_24.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-main-48:\\drawable\\baseline_check_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-merged_res-46:\\layout_activity_metode.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.luminapp.luminsight.app-main-48:\\layout\\activity_metode.xml"
+    }
+]

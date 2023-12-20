@@ -1,0 +1,9 @@
+com.luminapp.luminsight.test.app-jetified-core-1.5.0-0 C:\Users\ASUS\.gradle\caches\transforms-3\c0887eef7807c2c296fc0d05a382dfda\transformed\jetified-core-1.5.0\res
+com.luminapp.luminsight.test.app-jetified-annotation-experimental-1.3.0-1 C:\Users\ASUS\.gradle\caches\transforms-3\cdb4123054bf4a7c7360ef104aacd148\transformed\jetified-annotation-experimental-1.3.0\res
+com.luminapp.luminsight.test.app-androidTest-2 C:\android\luminsight-main\app\build\generated\res\resValues\androidTest\debug
+com.luminapp.luminsight.test.app-androidTest-3 C:\android\luminsight-main\app\build\generated\res\rs\androidTest\debug
+com.luminapp.luminsight.test.app-mergeDebugAndroidTestResources-4 C:\android\luminsight-main\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.luminapp.luminsight.test.app-mergeDebugAndroidTestResources-5 C:\android\luminsight-main\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.luminapp.luminsight.test.app-merged_res-6 C:\android\luminsight-main\app\build\intermediates\merged_res\debugAndroidTest
+com.luminapp.luminsight.test.app-androidTest-7 C:\android\luminsight-main\app\src\androidTest\res
+com.luminapp.luminsight.test.app-androidTestDebug-8 C:\android\luminsight-main\app\src\androidTestDebug\res
