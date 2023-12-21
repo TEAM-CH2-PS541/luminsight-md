@@ -17,7 +17,7 @@
     <string name="artikel">Artikel Kesehatan Mata</string>
     <string name="artikellengkap">Halaman Detail Artikel</string>
     <string name="batal">Batal</string>
-    <string name="cari">Cari</string>
+    <string name="cari">Deteksi</string>
     <string name="cekmata">Cek Mata Sekarang</string>
     <string name="default_web_client_id" translatable="false">129976350829-o0fr98l7hckh6em2njkufktvsu5vgnd8.apps.googleusercontent.com</string>
     <string name="diagnosa">Dibawah ini adalah diagnosa anda</string>
@@ -31,9 +31,9 @@
     <string name="hasil">Hasil ditemukan !</string>
     <string name="isiabout">Test</string>
     <string name="jaga">Selalu jaga kesehatan</string>
-    <string name="kriteria">Pilih gambar yang berfortmat .PNG atau .JPG</string>
+    <string name="kriteria">Klik dibawah untuk mengunggah gambar dari galeri/kamera</string>
     <string name="masukgoogle">Masuk dengan google</string>
-    <string name="masukkan">Masukkan Gambar Dari Galeri</string>
+    <string name="masukkan">Masukkan Gambar </string>
     <string name="masukkan2">Masukkan Gambar</string>
     <string name="mulai">Mulai</string>
     <string name="project_id" translatable="false">projectods-107cf</string>

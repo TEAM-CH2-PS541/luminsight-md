@@ -8,10 +8,10 @@
     <string name="artikel">Artikel Kesehatan Mata</string>
     <string name="about">About Apps</string>
     <string name="halmetode">Halaman LuminSight</string>
-    <string name="masukkan">Masukkan Gambar Dari Galeri</string>
+    <string name="masukkan">Masukkan Gambar </string>
     <string name="masukkan2">Masukkan Gambar</string>
-    <string name="kriteria">Pilih gambar yang berfortmat .PNG atau .JPG</string>
-    <string name="cari">Cari</string>
+    <string name="kriteria">Klik dibawah untuk mengunggah gambar dari galeri/kamera</string>
+    <string name="cari">Deteksi</string>
     <string name="tgl">Sun, 23 Mei 2023</string>
     <string name="artikellengkap">Halaman Detail Artikel</string>
     <string name="tittleabout">Tentang Aplikasi</string>

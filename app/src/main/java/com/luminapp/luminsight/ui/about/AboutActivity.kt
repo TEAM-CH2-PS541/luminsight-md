@@ -24,11 +24,11 @@ class AboutActivity : AppCompatActivity() {
     }
 
     private fun setData(){
-        val a = "LuminSight: Eye Disease Detection App addresses health concerns with a focus on early detection in the diagnosis of eye diseases. Access to specialized eye care is often limited, especially in underserved areas, making it important to provide innovative solutions. Our project focuses on creating an easy-to-use mobile application that utilizes a camera or uploaded images to facilitate early detection of common eye conditions.\n" +
+        val a = "LuminSight, an application produced by our Capstone team, TEAM-CH2-PS541, is an innovative solution for early detection of various eye conditions. With a focus on eye health, LuminSight makes it easy for Android users to detect diseases such as bulging eyes, cataract, crossed eyes, glaucoma, uveitis, and normal eye conditions.\n" +
                 "\n" +
-                "Through image analysis, LuminSight aims to identify eye diseases such as Blemishes, Pimples, Cataracts, and more and alert users to seek immediate solutions and further treatment. Our team is highly motivated by the desire to use technology to address pressing health challenges. Eye diseases disproportionately affect vulnerable populations, and we believe that accessible early detection tools can make a huge impact in preventing various eye diseases.\n" +
+                "The app offers an intuitive experience by leveraging advanced camera technology on Android devices to take detailed images of the eye or retrieve existing images. With its multi-detection feature, LuminSight allows users to monitor their eye conditions comprehensively on one platform. The high analysis speed provides accurate results, while the user-friendly interface makes it easy for everyone to use.\n" +
                 "\n" +
-                "LuminSight is our commitment to utilizing our technical skills to create solutions that can make a positive impact on eye health, ensuring that individuals at risk of developing eye diseases before it's too late get the timely care they need."
+                "LuminSight is not just an application, but also a loyal partner in caring for your eye health. With the latest technology and our commitment to user welfare, LuminSight is here as a reliable friend to keep your vision optimal."
         binding.tvAbout.text = a
     }
 }
